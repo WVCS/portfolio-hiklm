@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="stylesheet" type="text/css" href="style.css">
+
+<body>
+
+<ul>
+  <li><a class="active" href="portfoliotest2.html">About me</a></li>
+  <li><a href="#news">Contact</a></li>
+  <li><a href="portfoliogrid.html">Portfolio</a></li>
+    <li><img src="images/portlogo.png" style="width: 100px;"></li>
+  <li style="float:right"><a href="#about">Hire me!</a></li>
+</ul>
+
+<br> <br> <br> 
+
+<div class="grid-container">
+  <div class="grid1"><img src="images/parkemonlogo.png" style="width:250px;"> </div>
+  <div class="grid2">2</div>
+  <div class="grid3">3</div>
+  <div class="grid4">4</div>
+  <div class="grid5">5</div>
+  <div class="grid6">6</div>
+  <div class="grid7">7</div>
+  <div class="grid8">8</div>
+  <div class="grid9">9</div>
+</div>
+
+
+
+
+</body>
+</html>
