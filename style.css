@@ -59,7 +59,7 @@ p2 {
 }
 
 .wrapper > * {
-  background-color: white;
+  background-color: #704565;
   color: #fff;
   border-radius: 5px;
   padding: 20px;
@@ -121,7 +121,9 @@ li a:hover:not(.active) {
 }
 
 .grid-container > div {
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: white;
+  
+  border-radius:10px;
   text-align: center;
   padding: 20px 20px;
   font-size: 30px;
