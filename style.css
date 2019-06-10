@@ -112,10 +112,6 @@ li a:hover:not(.active) {
   background-color: #280527;
 }
 
-.active {
-  background-color: #492d48;
-}
-
 .grid-container {
   display: grid;
   grid-gap: 50px;
