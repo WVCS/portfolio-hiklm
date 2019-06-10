@@ -10,21 +10,27 @@ body {
 }
 
 h1, p {
-  margin: 0 0 1em 0;
+  margin: 0 0 2px 0;
   font-family: Helvetica;
 }
 
 h2 {
-  margin: 0 0 1em 0;
+  margin: 0 0 30px 0;
   font-family: Helvetica;
 font-size: 300%;
 color: #edd042;
 }
 
 p2 {
-  margin: 0 0 1em 0;
+  margin: 0 0 10px 0;
   font-family: Helvetica;
   color: #ffe463;
+}
+
+p.pad {
+  margin: 0 0 15px 0;
+  font-family: Helvetica;
+  color: white;
 }
 
 .wrapper {
@@ -182,7 +188,7 @@ footer {
   
     position: absolute;
     left: 0;
-    bottom: 5;
+    bottom: -500px;
     height: 100px;
     width: 100%;
   color: white;
