@@ -173,3 +173,18 @@ li a:hover:not(.active) {
   grid-row-start: 15;
   grid-row-end: 22;
 }
+
+footer {
+    background-color: #262626;
+    border-top: 1px solid #E7E7E7;
+    text-align:center;
+    padding:20px;
+  
+    position: absolute;
+    left: 0;
+    bottom: 5;
+    height: 100px;
+    width: 100%;
+  color: white;
+  font-family: helvetica;
+}
