@@ -116,7 +116,7 @@ li a:hover:not(.active) {
   display: grid;
   grid-gap: 50px;
   grid-template-columns: auto auto auto;
-  background-color: #2196F3;
+  background-color: #704565;
   padding: 10px;
   margin-left:20%;
   margin-right:20%;
